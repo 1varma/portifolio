@@ -1,39 +1,38 @@
-# **PORTIFÓLIO VINICIUS NUNES - 2022**
+**PORTFOLIO Ashish Varma Juttu - 2024**
 
-![](./img/DESKTOP.png)
+## [Click here](http://ashishvarmajuttu.kesug.com/index.html?i=3) to access the website
 
-## [Clique aqui](https://viniciusnunes137.github.io/portifolio/) para acessar o site
+## **ABOUT**
 
-## **SOBRE**
+- Portfolio-like website, created with the purpose of showcasing my progression as a web developer.
 
-- Site tipo do portifólio, onde foi construído com o intuito de divulgar a minha evolução como desenvolvedor web.
-
-- - Foi proposto esse projeto pelo professor de Linguagem de Marcação com a finalidade de replicar um projeto que desenvolvemos no FIGMA com a finalidade de compreender a @media para responsividade.
+- This project was proposed by the Markup Language professor aiming to replicate a project we developed in FIGMA in order to understand @media for responsiveness.
 
 
 
-## **TECNOLOGIAS APLICADAS**
+## **APPLIED TECHNOLOGIES**
 
 - HTML5
 - CSS3
 
 
-## **FERRAMENTAS**
+## **TOOLS**
 
-- VSCODE
-- GITHUB / GIT
-- FIGMA
-- FONT-AWESOME
+- Python
+- SQL
+- Google BigQuery
+- Power BI
+- Regression
+- Classification
+- Docker
 
-
-## **CONCEITOS APLICADOS**
+## **APPLIED CONCEPTS**
 
 - DISPLAY (GRID)
 - GRID (AREA)
-- CSS PORCIONADO
+- CSS Slicing
 - @MEDIA
 
-## **AUTOR**
+## **AUTHOR**
 
-- [VINICIUS NUNES](https://github.com/VINICIUSNUNES137)
-
+- [Ashish Varma Juttu](https://github.com/1varma)
