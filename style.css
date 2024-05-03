@@ -294,6 +294,14 @@ section {
   bottom: 2.5rem;
 }
 
+.scrollable {
+  overflow-x: auto;
+  overflow-y: hidden;
+  max-height: 500px; /* Adjust the maximum height as needed */
+}
+
+
+
 .details-container {
   padding: 1.5rem;
   flex: 1;
