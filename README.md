@@ -1,6 +1,6 @@
 **PORTFOLIO Ashish Varma Juttu - 2024**
 
-## [Click here](http://ashishvarmajuttu.kesug.com/index.html?i=3) to access the website
+## [Click here](http://ashishvarmajuttu.kesug.com/index.html) to access the website
 
 ## **ABOUT**
 
