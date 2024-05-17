@@ -296,11 +296,26 @@ section {
 
 .scrollable {
   overflow-x: auto;
-  overflow-y: hidden;
+  overflow-y: auto;
   max-height: 500px; /* Adjust the maximum height as needed */
+  -webkit-overflow-scrolling: touch; /* Enable smooth scrolling on mobile browsers */
+  -ms-overflow-style: -ms-autohiding-scrollbar; /* Hide scrollbar on Windows Phone */
+  -webkit-overflow-style: scrollbar; /* Show scrollbar on Android */
+  -webkit-scrollbar {
+    -webkit-appearance: none; /* Remove default scrollbar styles */
+    width: 10px; /* Set scrollbar width */
+    height: 10px; /* Set scrollbar height */
+  }
+  -webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.5); /* Set scrollbar thumb background color */
+    border-radius: 5px; /* Set scrollbar thumb border radius */
+  }
+  -webkit-scrollbar-track {
+    background-color: rgba(255, 255, 255, 0.5); /* Set scrollbar track background color */
+    border-radius: 5px; /* Set scrollbar track border radius */
+  }
+  touch-action: pan-y; /* Enable vertical scrolling */
 }
-
-
 
 .details-container {
   padding: 1.5rem;
